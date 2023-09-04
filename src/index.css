@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg{
+    background-image: url("https://img.freepik.com/free-photo/top-view-circular-food-frame_23-2148723455.jpg?w=996&t=st=1693408074~exp=1693408674~hmac=c8a5b05cee47dfecaad33bec6c28a67861fc66c202e551b5a3c1087ab7704620");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
